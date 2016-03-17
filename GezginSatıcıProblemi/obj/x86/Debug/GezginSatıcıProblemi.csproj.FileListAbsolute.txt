@@ -1,0 +1,6 @@
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\bin\Debug\GezginSatıcıProblemi.exe
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\bin\Debug\GezginSatıcıProblemi.pdb
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\bin\Debug\GAF.dll
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\obj\x86\Debug\GezginSatıcıProblemi.csprojResolveAssemblyReference.cache
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\obj\x86\Debug\GezginSatıcıProblemi.exe
+c:\users\buruk\documents\visual studio 2010\Projects\GezginSatıcıProblemi\GezginSatıcıProblemi\obj\x86\Debug\GezginSatıcıProblemi.pdb
